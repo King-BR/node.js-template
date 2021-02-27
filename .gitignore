@@ -1,6 +1,5 @@
-# folders
 .vscode/
 node_modules/
-
-# files
+.secret/
 .env
+.config.json
